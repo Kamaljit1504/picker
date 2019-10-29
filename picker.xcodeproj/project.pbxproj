@@ -97,6 +97,7 @@
 		9B19A0942368F510007F5AEC /* picker */ = {
 			isa = PBXGroup;
 			children = (
+				9B19A0C62368F8B2007F5AEC /* Images */,
 				9B19A0952368F510007F5AEC /* AppDelegate.swift */,
 				9B19A0972368F510007F5AEC /* ViewController.swift */,
 				9B19A0992368F510007F5AEC /* Main.storyboard */,
@@ -123,6 +124,13 @@
 				9B19A0B72368F511007F5AEC /* Info.plist */,
 			);
 			path = pickerUITests;
+			sourceTree = "<group>";
+		};
+		9B19A0C62368F8B2007F5AEC /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
